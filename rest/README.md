@@ -1,7 +1,7 @@
 ## Rest-API for Ecco
 
 This part provides a Rest-API for ECCO  
-The corresponding frontend can be found on [GitHub](https://github.com/MatthiasPreuner/ecco-client.git)
+The corresponding frontend can be found on [GitHub](https://github.com/MatthiasPreuner/ecco-client/tree/release_1.0)
 
 To run the API use the Gradle commands under ecco-rest:
 - ecco-rest:build for the first initialization 
