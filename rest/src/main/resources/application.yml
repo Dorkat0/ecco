@@ -1,4 +1,4 @@
-micronaut:
+omicronaut:
   application:
     name: rest
 
@@ -15,7 +15,7 @@ micronaut:
     port: ${PORT:8081}
     cors:
       enabled: true
-    context-path: ${CONTEXT_PATH:/}
+    context-path: ${CONTEXT_PATH:/ecco-rest}
 
   security:
     authentication: bearer
