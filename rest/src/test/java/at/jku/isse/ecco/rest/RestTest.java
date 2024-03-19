@@ -21,7 +21,7 @@ class RestTest {
     EmbeddedApplication<?> application;
 
     @Inject
-    @Client("/")
+    @Client("/ecco-rest")
     HttpClient client;
 
     BearerAccessRefreshToken bearerAccessRefreshToken;

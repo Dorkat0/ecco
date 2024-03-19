@@ -1,4 +1,4 @@
-omicronaut:
+micronaut:
   application:
     name: rest
 
